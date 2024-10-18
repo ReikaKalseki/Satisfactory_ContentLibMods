@@ -1,0 +1,28 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Basic Mycelium Farming",
+	"ID": "Recipe_MyceliumFarming",	
+    "Ingredients": [
+        {
+            "Item": "Desc_GenericBiomass_C",
+            "Amount": 5
+        },
+        {
+            "Item": "Desc_LiquidBiofuel_C",
+            "Amount": 15000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_Mycelia_C",
+            "Amount": 8
+        }
+    ],
+    "ManufacturingDuration": 10,
+    "ProducedIn": [
+        "Build_OilRefinery"
+    ],
+    "UnlockedBy": [
+        "Schematic_MyceliumFarming"
+    ]
+}

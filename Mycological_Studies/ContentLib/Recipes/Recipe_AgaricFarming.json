@@ -1,0 +1,29 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Bacon Agaric Reproduction",
+	"ID": "Recipe_AgaricFarming",	
+    "Ingredients": [
+        {
+            "Item": "Desc_Mycelia_C",
+            "Amount": 2
+        },
+        {
+            "Item": "Desc_Water_C",
+            "Amount": 26000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_Shroom_C",
+            "Amount": 1
+        }
+    ],
+    "ManufacturingDuration": 6,
+    "ProducedIn": [
+        "Build_OilRefinery"
+    ],
+    "UnlockedBy": [
+        "Schematic_MyceliumFarming"
+    ],
+    "OverrideCategory": "Cat_Biomass"
+}

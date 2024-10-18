@@ -1,0 +1,10 @@
+*
+!Mycological_Studies
+!Mycological_Studies/**
+!NuclearTurbofuel
+!NuclearTurbofuel/**
+!.git*
+*.pdn
+*.rar
+*.zip
+*.7z

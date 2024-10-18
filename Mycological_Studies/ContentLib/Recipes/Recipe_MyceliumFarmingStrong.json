@@ -1,0 +1,36 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Bulk Mycelium Farming",
+	"ID": "Recipe_MyceliumFarmingStrong",	
+    "Ingredients": [
+        {
+            "Item": "Desc_GenericBiomass_C",
+            "Amount": 15
+        },
+        {
+            "Item": "Desc_Fabric_C",
+            "Amount": 3
+        },
+        {
+            "Item": "Desc_LiquidBiofuel_C",
+            "Amount": 24000
+        },
+        {
+            "Item": "Desc_Water_C",
+            "Amount": 40000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_Mycelia_C",
+            "Amount": 20
+        }
+    ],
+    "ManufacturingDuration": 30,
+    "ProducedIn": [
+        "Build_Blender"
+    ],
+    "UnlockedBy": [
+        "Schematic_MyceliumFarming"
+    ]
+}

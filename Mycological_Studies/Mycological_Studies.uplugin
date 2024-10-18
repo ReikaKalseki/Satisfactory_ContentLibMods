@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"SemVersion": "1.0.0",
+	"FriendlyName": "Mycological Studies",
+	"Description": "Adds a couple recipes to allow for renewable mycelium and bacon agaric production.",
+	"Category": "Modding",
+	"CreatedBy": "Reika",
+	"CreatedByURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.8.0"
+		},
+		{
+			"Name": "ContentLib",
+			"Enabled": true,
+			"SemVersion": "^1.5.0"
+		}
+	],
+	"GameVersion": ">=365306"
+}

@@ -1,0 +1,24 @@
+{
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Schematic.json",
+  "ID": "Schematic_MyceliumFarming",
+  "Name": "Mycological Studies",
+  "Type": "Milestone",
+  "Tier": 5,
+  "VisualKit": "Desc_Mycelia_C",
+  "Category": "Mycelium Farming",
+  "Cost": [
+    {
+      "Item": "Desc_Mycelia_C",
+      "Amount": 100
+    },
+    {
+      "Item": "Desc_Shroom_C",
+      "Amount": 10
+    },
+    {
+      "Item": "Desc_PackagedBiofuel_C",
+      "Amount": 200
+    },
+  ],
+  "Recipes": [ "Recipe_MyceliumFarming", "Recipe_MyceliumFarmingStrong", "Recipe_AgaricFarming" ]
+}
