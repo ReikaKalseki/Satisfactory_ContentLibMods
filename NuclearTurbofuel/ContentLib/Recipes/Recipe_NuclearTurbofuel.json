@@ -5,7 +5,7 @@
     "Ingredients": [
         {
             "Item": "Desc_OreUranium",
-            "Amount": 12
+            "Amount": 20
         },
         {
             "Item": "Desc_CrystalOscillator",
@@ -13,17 +13,17 @@
         },
         {
             "Item": "Desc_LiquidTurboFuel",
-            "Amount": 40000
+            "Amount": 24000
         }
     ],
     "Products": [
         {
             "Item": "Desc_UraniumCell",
-            "Amount": 10
+            "Amount": 20
         },
         {
             "Item": "Desc_Water",
-            "Amount": 10000
+            "Amount": 8000
         }
     ],
     "ManufacturingDuration": 60,

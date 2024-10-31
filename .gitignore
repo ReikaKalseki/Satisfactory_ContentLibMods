@@ -3,6 +3,8 @@
 !Mycological_Studies/**
 !NuclearTurbofuel
 !NuclearTurbofuel/**
+!SomersLooping
+!SomersLooping/**
 !.git*
 *.pdn
 *.rar

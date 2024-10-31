@@ -17,11 +17,11 @@
     },
     {
       "Item": "Desc_OreUranium",
-      "Amount": 50
+      "Amount": 100
     },
     {
       "Item": "Desc_TurboFuel_C",
-      "Amount": 400
+      "Amount": 1000
     }
   ],
   "Recipes": [ "Recipe_NuclearTurbofuel"]
